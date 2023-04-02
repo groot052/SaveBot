@@ -1,1 +1,1 @@
-Hi
+python -m main
